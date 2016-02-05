@@ -1,7 +1,6 @@
 from ltk.actions import Action
 from logger import logger
 import time
-import os
 from watchdog.observers import Observer
 from ltk.watchhandler import WatchHandler
 
